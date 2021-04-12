@@ -1,4 +1,9 @@
+merge conflict fixed
+<<<<<<< HEAD
 "Many of life's failures are people 
 who did not realize 
 how close they were to success 
 when they gave up."
+=======
+Less is more...
+>>>>>>> developer-C8216-Elcin
