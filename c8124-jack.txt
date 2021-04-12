@@ -1,0 +1,6 @@
+Benim adım Selahattin ama claruswayde jack ismini kullanıyorum.
+<<<<<<< HEAD
+Jack ismini kullanmak hoşuma gidiyor......
+=======
+Güzel bir isim...
+>>>>>>> develeper-c8124-jack
