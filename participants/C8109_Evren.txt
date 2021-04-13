@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"Conflict deneme"
 Bugun hava guzeldi.
-=======
 Hayirli Ramazanlar
 Ramadan Kareem
 Message from team The Best of The Best
->>>>>>> developer-C8109_Evren
