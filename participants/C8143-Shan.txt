@@ -1,0 +1,7 @@
+Hello...
+<<<<<<< HEAD
+My name is Shan.
+
+=======
+
+>>>>>>> developer-C8143-Shan
