@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Anan ki esir-i akl u temyiz şodend,
+Der hasret-i hest u nist naçiz şodend.
+=======
+Yaran be muvafakat ço didar konid, 
+Bayed ki zi dost yad-i bisyar konid.
+>>>>>>> developer-C8370-Salih
