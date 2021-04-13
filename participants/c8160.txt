@@ -1,4 +1,3 @@
-ilk commit
 
-
-burak oyunda:
+second commit
+>>>>>>> developer_c8160
