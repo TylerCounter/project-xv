@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 deneme2
+=======
+deneme
+>>>>>>> developer-c8275-Sefa
