@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+main branch
+=======
+ilk satır developer
+>>>>>>> developer-C8293-Kevser
