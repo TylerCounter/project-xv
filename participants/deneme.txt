@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+
+
+bu bir denemedir.
+>>>>>>> me_20
