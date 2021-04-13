@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Here are the proposed motto of the project:
+"Git and Github?! Just don't give a try to understand and relax.
+We are all in the same boat -though not in the same league-."
+=======
+# In this file there will be a resume...
+# Don't forget to fill your resume.
+>>>>>>> main
