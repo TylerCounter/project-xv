@@ -1,6 +1,14 @@
+
+Merge CONFLİCT fixed
+
+
 teamwork
 
+<<<<<<< HEAD
 
 
 main branch da değişiklik
 
+=======
+added a sentence
+>>>>>>> developer-C8216-Elcin
