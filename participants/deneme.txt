@@ -1,2 +1,6 @@
-deneme
-bu ikinci denemedir.
+<<<<<<< HEAD
+
+
+
+bu bir denemedir.
+>>>>>>> me_20
