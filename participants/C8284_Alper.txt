@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+main branşta yeni bir cümle yazdım.
+=======
+developer-C8284-Alper
