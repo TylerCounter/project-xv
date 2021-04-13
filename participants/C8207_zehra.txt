@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+There is okey edited by main
+=======
+Second commit by developer branch
+>>>>>>> developer_C8207_zehra
+ok ı checked
