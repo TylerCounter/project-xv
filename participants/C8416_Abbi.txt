@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+
+
+
+
+How I can add line to vim without overide
+
+My name is Mohamed Abbi I live in Arlington City
+
+I love plying with Git command
+
+=======
+Open and edit the file named "your_number_name.txt"** (ex: add a sentence )
+>>>>>>> developer-C8416_Abbi
