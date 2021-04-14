@@ -1,6 +1,11 @@
 
 
+<<<<<<< HEAD
 
 It's a text!
+=======
+It's text again
+
+>>>>>>> main
 
 
