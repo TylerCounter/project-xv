@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Merhaba!ikinci deneme!
+=======
+Merhaba! Bu bir deneme!
+>>>>>>> developer-c08102-busra
